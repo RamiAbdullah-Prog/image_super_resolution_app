@@ -90,3 +90,8 @@ pip install -r requirements.txt
 This application uses a pre-trained autoencoder model to enhance the quality of uploaded images. The model is loaded from the `autoencoder_final.keras` file, which must be placed in the root directory of the project.
 
 If you don't have a pre-trained model, you can either train your own autoencoder model using TensorFlow or download an existing one.
+
+
+
+Make sure to update the `git clone` URL and the `autoencoder_final.keras` model file if necessary. Also, you can customize any sections to fit your specific use case better.
+
